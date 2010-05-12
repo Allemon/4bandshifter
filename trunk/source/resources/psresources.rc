@@ -1,0 +1,11 @@
+#define APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+1 			BITMAP			"mini_knob_med.bmp"
+100			BITMAP			"knob_med.bmp"
+128                     BITMAP  DISCARDABLE     "PSGUI.bmp"
+129                     BITMAP  DISCARDABLE     "button_sm.bmp"
+
